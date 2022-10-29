@@ -9,5 +9,5 @@ I added a span feature on the list items which were not in the original project.
 
 I also added a ref and span feature on the question mark which were not in the original project.
 
-I also added a span feature on the list items which were not in the original project.
+I also added a span feature on the button which was not in the original project.
 # Proje-GitGithub_Odev-2
