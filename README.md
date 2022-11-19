@@ -22,5 +22,6 @@ A picture (africa.jpg) and a video (videoson.mp4) are active in the index.html.
 2 pictures (africa2.jpg and cita.jpg) were deactives in the index.html. 
 
 The references for list items, question mark, and button haven't yet provided.
+![](Webpage.gif)
 
 # Proje-GitGithub_Odev-2
